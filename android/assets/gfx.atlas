@@ -1,0 +1,302 @@
+
+drawing1.png
+format: RGBA8888
+filter: MipMapNearestLinear,MipMapNearestLinear
+repeat: none
+tree3
+  rotate: false
+  xy: 0, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tree
+  rotate: false
+  xy: 512, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 0, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+plate
+  rotate: false
+  xy: 512, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+drawing2.png
+format: RGBA8888
+filter: MipMapNearestLinear,MipMapNearestLinear
+repeat: none
+mountain
+  rotate: false
+  xy: 0, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 512, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+encircle
+  rotate: false
+  xy: 0, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tree2
+  rotate: false
+  xy: 512, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon6
+  rotate: false
+  xy: 768, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon5
+  rotate: false
+  xy: 512, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon4
+  rotate: false
+  xy: 768, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+drawing3.png
+format: RGBA8888
+filter: MipMapNearestLinear,MipMapNearestLinear
+repeat: none
+icon3
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon2
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+icon1
+  rotate: false
+  xy: 512, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+face6
+  rotate: false
+  xy: 768, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+face5
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+face4
+  rotate: false
+  xy: 0, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 0, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 256, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 512, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+body4
+  rotate: false
+  xy: 768, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 256, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 256, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 512, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 768, 512
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+small6
+  rotate: false
+  xy: 768, 640
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+small5
+  rotate: false
+  xy: 896, 640
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+small4
+  rotate: false
+  xy: 512, 768
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+small3
+  rotate: false
+  xy: 512, 896
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+small2
+  rotate: false
+  xy: 640, 768
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+small1
+  rotate: false
+  xy: 640, 896
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+triangle
+  rotate: false
+  xy: 768, 768
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+leaf03
+  rotate: false
+  xy: 832, 768
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+leaf02
+  rotate: false
+  xy: 896, 768
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+leaf01
+  rotate: false
+  xy: 960, 768
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flake05
+  rotate: false
+  xy: 768, 832
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flake04
+  rotate: false
+  xy: 768, 896
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flake03
+  rotate: false
+  xy: 768, 960
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flake02
+  rotate: false
+  xy: 832, 832
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flake01
+  rotate: false
+  xy: 896, 832
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 960, 832
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
